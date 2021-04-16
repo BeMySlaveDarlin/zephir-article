@@ -72,6 +72,6 @@
 
 Если тебя вдруг заинтересовал этот язык, ниже будут ссылочки на документацию и репозиторий проекта.
 
-https://docs.zephir-lang.com/0.12/en/types
+https://docs.zephir-lang.com/
 
 https://github.com/zephir-lang/zephir
