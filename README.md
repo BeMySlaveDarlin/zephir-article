@@ -1,4 +1,4 @@
-# Hi five, $username, and low latency!
+# Hi five, {$userName}, and low latency!
 ![oul3gz1bvwwy](https://user-images.githubusercontent.com/10584911/114997036-1fcaa280-9ea8-11eb-8df9-a426e94bc17a.jpg)
 
 Итак, ты PHP-разработчик. В широких кругах ты возможно немного стесняешься об этом говорить, в узких ты стараешься говорить, что ты исключительно Backend PHP-разработчик.
